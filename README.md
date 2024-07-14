@@ -1,2 +1,3 @@
 # Digital-Voices
 A simple and convenient application for Sentiment Analysis of Emotion and Tone in Online Student Reviews using Natural Language Processes.
+In the project ,we employed a variety of frameworks and models to achieve accurate sentiment classification. Key frameworks and libraries used include Pandas for data manipulation, NumPy for numerical operations, Seaborn and Matplotlib for data visualization, WordCloud for generating visualizations of text data, NLTK for text preprocessing tasks such as lemmatization, and Scikit-learn for machine learning tasks including model training, evaluation, and hyperparameter tuning. We utilized Google Colab as our development environment and the Kaggle API for dataset retrieval. 
